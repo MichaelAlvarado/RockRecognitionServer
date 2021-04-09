@@ -1,3 +1,5 @@
+![Logo_name_blue](https://user-images.githubusercontent.com/47261571/110251979-9d21ff80-7f59-11eb-8afd-a1290e9b546b.png)
+
 # ARCHER Rock Recognition Server
 This is a Rock Recognition Server used for ARCHER's AR System NASA SUITS Challenge 2021
 Made by Team Prodigy from the University of Puerto Rico at Mayagüez campus.

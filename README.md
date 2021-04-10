@@ -4,7 +4,7 @@
 This is a Rock Recognition Server used for ARCHER's AR System NASA SUITS Challenge 2021
 Made by Team Prodigy from the University of Puerto Rico at Mayagüez campus.
 
-## How to get the Server Running
+## How to get the Server Running on Windows
 ### 1. Download the content in the git
 ![image](https://user-images.githubusercontent.com/47261571/114128479-70e7fe80-98ca-11eb-8f8e-176db5be3c81.png)
 

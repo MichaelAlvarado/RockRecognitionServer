@@ -5,6 +5,16 @@ This is a Rock Recognition Server used for ARCHER's AR System NASA SUITS Challen
 Made by Team Prodigy from the University of Puerto Rico at Mayagüez campus. 
 One of the tasks for future mission to the lunar surface such as the Artemis Program is to understand the geology of our natural satellite. With Rock Recognition it allows the astronauts to easily identify the rocks to be taken as sample.
 
+Table of contents
+=================
+
+<!--ts-->
+   * [Introduction](#archer-rock-recognition-server)
+   * [Table of contents](#table-of-contents)
+   * [Rock Classification](#rock-classification)
+   * [How to get the Server Running on Windows](#how-to-get-the-server-running-on-windows)
+<!--te-->
+
 ## Rock Classification
 The server has a trained model based on ML.NET Deep Learning. This current Model is capable of classifying the following rocks:
 ### Basalt

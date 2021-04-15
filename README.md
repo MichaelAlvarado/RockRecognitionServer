@@ -4,6 +4,7 @@
 This is a Rock Recognition Server used for ARCHER's AR System NASA SUITS Challenge 2021
 Made by Team Prodigy from the University of Puerto Rico at Mayagüez campus. 
 One of the tasks for future mission to the lunar surface such as the Artemis Program is to understand the geology of our natural satellite. With Rock Recognition it allows the astronauts to easily identify the rocks to be taken as sample.
+This [server](#how-to-get-the-server-running-on-windows) has a trained [model](#rock-classification) based on ML.NET Deep Learning.
 
 Table of contents
 =================
@@ -16,7 +17,8 @@ Table of contents
 <!--te-->
 
 ## Rock Classification
-The server has a trained model based on ML.NET Deep Learning. This current Model is capable of classifying the following rocks:
+Using ML.NET Deep Learning a model was trained with more than two thousands Images available from the Apollo Program and the internet.
+This current Model is capable of classifying the following rocks:
 ### Basalt
 <img src="https://user-images.githubusercontent.com/47261571/114284947-799f1880-9a21-11eb-8bd2-80b0a2a615e2.jpeg" width="350" height="400">
 
